@@ -1,0 +1,12 @@
+app.use (express.static(public));
+
+Alternate you can use below : 
+
+app.use(express.static(__dirname + '/public'));
+
+
+
+
+app.use(bodyParser.urlencoded({
+  extended: true
+}));
