@@ -12,7 +12,7 @@ const mongoose = require("mongoose");
  
 /**************   mongoDB connect         ***********************/
  
-mongoose.connect("mongodb://localhost:27017/testDB");
+mongoose.connect("mongodb://localhost:27017/testDB", { useNewUrlParser: true });
  
 const itemSchema = new mongoose.Schema({
   title: String,
