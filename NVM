@@ -12,3 +12,5 @@ close the terminal and reopen and check the version nvm --version it should show
 
 now install node throght cli 
 nvm i {nodeVersiontype}
+
+imp link : https://www.freecodecamp.org/news/how-to-update-node-and-npm-to-the-latest-version/
