@@ -1,4 +1,4 @@
-app.use (express.static(public));
+app.use (express.static("public"));
 
 Alternate you can use below : 
 
