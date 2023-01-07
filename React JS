@@ -1,0 +1,7 @@
+import "bootstrap/dist/css/bootstrap.css"         ===>  allow boottrap throgh cli in index.js  react 
+
+in react we use JSX   whcih means javascript syntax extention 
+
+react is good for single page applications becuase here when it comes to click button it not goes to next page it loads in the same page page which enhance the experince of user.
+
+
