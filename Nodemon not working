@@ -1,0 +1,2 @@
+If you nodemon not working showign while you are running or install nodemon in vscode first time or error like : running script is disabled in vscode and there must 
+one folder link just go to that folder in your computer system and remove    "nodemon.ps1" file
