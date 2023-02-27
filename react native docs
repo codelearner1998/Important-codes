@@ -1,0 +1,13 @@
+expo i -g expo-cli   ==> first step like nodemon global variable in cli 
+
+expo init fileName   ===> create file  
+
+npm start ==> to start on server 
+
+use android studio for app developement 
+
+create virtual mobile in it 
+
+connect virtual mobile with web you created 
+
+expo publish   ===> to publish branch in expo web app
