@@ -1,4 +1,4 @@
-expo i -g expo-cli   ==> first step like nodemon global variable in cli 
+npm  i -g expo-cli   ==> first step like nodemon global variable in cli 
 
 expo init fileName   ===> create file  
 
